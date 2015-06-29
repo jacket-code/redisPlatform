@@ -21,9 +21,7 @@ the result will be: (cpp so module)
 
 127.0.0.1:4379> rso 0x12347 '{ "argv1": 11, "argv2": 25 }'
 sum:36
-
 127.0.0.1:4379> rso 0x12347 '{ "argv1": 11, "argv2": 25 }'
 sum:36
-
 127.0.0.1:4379> rso 0x12347 '{ "argv1": 11, "argv2": 35 }'
 sum:46
